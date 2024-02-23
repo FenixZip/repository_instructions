@@ -30,14 +30,14 @@ git commit -m 'Ваш комментарий' - Зафиксировать из�
 ```sh
 git rm <filename> - удалить файл
 ```
+## История коммитов
+```sh
+git log = Показать коммиты
+git log --oneline - показать укороченные коммиты
+```
+## Ссылка на GIT и язык MarkDown
+[Git команды](https://www.cloud4y.ru/blog/23-git-command/ 'Всплывающая подсказка')
+
+[MarkDown](https://skillbox.ru/media/code/yazyk-razmetki-markdown-shpargalka-po-sintaksisu-s-primerami/?ysclid=lsyke4iuaa60964905#stk-18)
 
 
-
-
-
-
-
-git commit -m 'Комментарий'
-git log
-git log --oneline
-git checkaut
