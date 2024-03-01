@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="6795ac5c-c523-4ff4-836f-002e9291c528" name="Changes" comment="">
+=======
+    <list default="true" id="a84f0256-43e2-4c85-9437-9c953a20576e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> separators
       <change beforePath="$PROJECT_DIR$/git.md" beforeDir="false" afterPath="$PROJECT_DIR$/git.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -12,6 +18,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;git-widget-placeholder&quot;: &quot;quotes&quot;,
@@ -19,6 +26,15 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
   }
 }</component>
+=======
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "git-widget-placeholder": "separators",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors"
+  }
+}]]></component>
+>>>>>>> separators
   <component name="TaskManager">
     <servers />
   </component>
