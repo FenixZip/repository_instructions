@@ -87,4 +87,6 @@ ___
 
 [MarkDown](https://skillbox.ru/media/code/yazyk-razmetki-markdown-shpargalka-po-sintaksisu-s-primerami/?ysclid=lsyke4iuaa60964905#stk-18)
 
+![cow](cow.jpg)
+
 
